@@ -1,0 +1,6 @@
+{
+  "name": "Восхождение уточки",
+  "description": "Интерактивное 3D-приложение на Three.js: подъём резиновой уточки на гору высотой 5000 метров с расчётом температуры воздуха и изменением погоды по высоте.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
